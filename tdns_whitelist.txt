@@ -2,6 +2,10 @@
 # Konvertiert von AdGuard Whitelist
 # Format: Eine Domain pro Zeile (ohne @@||^$important Syntax)
 
+# Speediance
+www.speediance.com
+api.speediance.com
+
 # Kometa
 kometa.wiki
 ad.doubleclick.net
