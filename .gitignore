@@ -1,0 +1,9 @@
+# Schutz gegen versehentliche Secrets im öffentlichen Repo
+.env
+*.env
+*.local
+secrets/
+
+# OS
+.DS_Store
+Thumbs.db
